@@ -46,3 +46,9 @@
 2023-06-13T16:46:42.971918Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
 2023-06-13T16:46:42.972863Z 0 [ERROR] Cannot open Windows EventLog; check privileges, or start server with --log_syslog=0
 2023-06-13T16:46:42.972863Z 0 [Note] C:\Program Files (x86)\EasyPHP-Devserver-17\eds-binaries\dbserver\mysql5717x86x230613190538\bin\eds-dbserver.exe (mysqld 5.7.17) starting as process 22096 ...
+2023-06-13T19:37:30.334824Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2023-06-13T19:37:30.334824Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2023-06-13T19:37:30.334824Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2023-06-13T19:37:30.334824Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2023-06-13T19:37:30.335821Z 0 [ERROR] Cannot open Windows EventLog; check privileges, or start server with --log_syslog=0
+2023-06-13T19:37:30.335821Z 0 [Note] C:\Program Files (x86)\EasyPHP-Devserver-17\eds-binaries\dbserver\mysql5717x86x230610172740\bin\eds-dbserver.exe (mysqld 5.7.17) starting as process 1584 ...
